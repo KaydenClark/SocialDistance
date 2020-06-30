@@ -1,0 +1,20 @@
+{
+  "name": "socialdistance",
+  "version": "0.0.1",
+  "description": "Social Distance app using Bluetooth to identify nearby people",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaydenClark/SocialDistance.git"
+  },
+  "author": "Kayden Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaydenClark/SocialDistance/issues"
+  },
+  "homepage": "https://github.com/KaydenClark/SocialDistance#readme"
+}
